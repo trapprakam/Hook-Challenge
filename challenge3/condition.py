@@ -1,6 +1,5 @@
 from operation import Operation
 
-
 class Condition:
 
     def __init__(self, column_name: str, first_argument, operation_1: 'Operation',
